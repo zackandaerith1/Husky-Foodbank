@@ -1,5 +1,5 @@
 # Husky-Foodbank
 FoodBank System demo
 
-![image](https://drive.google.com/drive/u/0/folders/12AjKb8iQsUmQHsqMQ8kvBwxOrLuhfubT)
+![image](https://drive.google.com/uc?id=1EuPiWqar8O1JfhNT2C-4f19Iaw7IuAaR)
 
